@@ -17,36 +17,36 @@ The robot is being developed using modular 3D-printed components, flexible TPU s
 
 ## Engineering Approach
 
-| Area              | Technology                     |
+[ Area              - Technology                     ]
 
-| CAD Design        | Tinkercad                      |
-| 3D Printer        | Creality Ender 3 S1 Pro        |
-| Flexible Material | TPU 95A                        |
-| Slicing Software  | Ultimaker Cura                 |
-| Mechanical Design | Modular articulated structures |
+| CAD Design        - Tinkercad                      |
+| 3D Printer        - Creality Ender 3 S1 Pro        |
+| Flexible Material - TPU 95A                        |
+| Slicing Software  - Ultimaker Cura                 |
+| Mechanical Design - Modular articulated structures |
 
 ## Development Progress
 
-| Milestone                    | Status           |
+[ Milestone                    - Status           ]
 
-| Project architecture         | In progress      |
-| First TPU joint design       | Completed in CAD |
-| First physical TPU prototype | Printing         |
-| Mechanical testing           | Pending          |
-| Full body assembly           | Pending          |
-| Locomotion development       | Pending          |
-| Autonomous navigation        | Planned          |
+| Project architecture         - In progress      |
+| First TPU joint design       - Completed in CAD |
+| First physical TPU prototype - Printing         |
+| Mechanical testing           - Pending          |
+| Full body assembly           - Pending          |
+| Locomotion development       - Pending          |
+| Autonomous navigation        - Planned          |
 
 ## Repository Structure
 
-bio-inspired-soft-robot/
-├── CAD/
-├── Prototypes/
-├── Testing/
-├── Research/
-├── Electronics/
-├── Software/
-└── Documentation/
+bio-inspired-soft-robot:-
+1) CAD
+2) Prototypes
+3) Testing
+4) Research
+5) Electronics
+6) Software
+7) Documentation
 
 ## Design Philosophy
 
